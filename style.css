@@ -35,9 +35,6 @@ header .container {
   justify-content: space-between;
 }
 
-.logo {
-  height: 100px;
-}
 
 nav a {
   margin-left: 20px;
